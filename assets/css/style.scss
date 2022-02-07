@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme}}";
+// add a comment this way
+
+nav {
+
+  ul {
+   list-style-type: none;
+   listy-style: none;
+   padding: 0;
+   margin: 0;
+  }
+  
+  li {
+   font-size: 20pt;
+   display: inline;
+  }
+}
+
